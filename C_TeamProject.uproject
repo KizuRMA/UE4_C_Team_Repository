@@ -11,6 +11,18 @@
 		{
 			"Name": "EditorScriptingUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "Slime",
+			"Enabled": false
+		},
+		{
+			"Name": "material",
+			"Enabled": false
+		},
+		{
+			"Name": "Test",
+			"Enabled": false
 		}
 	]
 }
