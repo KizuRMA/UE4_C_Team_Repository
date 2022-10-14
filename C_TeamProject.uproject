@@ -14,7 +14,7 @@
 		},
 		{
 			"Name": "Slime",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "material",
