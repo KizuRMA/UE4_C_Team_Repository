@@ -14,7 +14,7 @@
 		},
 		{
 			"Name": "Slime",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "material",
@@ -22,6 +22,10 @@
 		},
 		{
 			"Name": "Test",
+			"Enabled": false
+		},
+		{
+			"Name": "Dragon",
 			"Enabled": false
 		}
 	]
