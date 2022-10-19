@@ -23,6 +23,10 @@
 		{
 			"Name": "Test",
 			"Enabled": false
+		},
+		{
+			"Name": "StaticMeshEditorExtension",
+			"Enabled": true
 		}
 	]
 }
