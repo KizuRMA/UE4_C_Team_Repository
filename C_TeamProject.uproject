@@ -32,5 +32,13 @@
 			"Name": "StaticMeshEditorExtension",
 			"Enabled": true
 		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "Effekseer",
+			"Enabled": true
+		}
 	]
 }
