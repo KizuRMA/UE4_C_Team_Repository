@@ -23,6 +23,14 @@
 		{
 			"Name": "Test",
 			"Enabled": false
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "Effekseer",
+			"Enabled": true
 		}
 	]
 }
