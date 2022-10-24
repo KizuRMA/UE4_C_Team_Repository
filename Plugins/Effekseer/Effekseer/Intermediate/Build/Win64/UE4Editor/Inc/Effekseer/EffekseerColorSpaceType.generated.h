@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define EFFEKSEER_EffekseerColorSpaceType_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UEGEAME_Plugins_Effekseer_Source_Effekseer_Public_EffekseerColorSpaceType_h
+#define CURRENT_FILE_ID C_TeamProject_Plugins_Effekseer_Effekseer_Source_Effekseer_Public_EffekseerColorSpaceType_h
 
 
 #define FOREACH_ENUM_EEFFEKSEERCOLORSPACETYPE(op) \
