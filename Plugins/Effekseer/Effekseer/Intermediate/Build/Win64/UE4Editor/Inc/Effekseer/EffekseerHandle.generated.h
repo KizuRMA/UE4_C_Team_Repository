@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define EFFEKSEER_EffekseerHandle_generated_h
 
-#define UEGEAME_Plugins_Effekseer_Source_Effekseer_Public_EffekseerHandle_h_15_GENERATED_BODY \
+#define C_TeamProject_Plugins_Effekseer_Effekseer_Source_Effekseer_Public_EffekseerHandle_h_15_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FEffekseerHandle_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> EFFEKSEER_API UScriptStruct* StaticStruct<struct FEffekseerHandle>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UEGEAME_Plugins_Effekseer_Source_Effekseer_Public_EffekseerHandle_h
+#define CURRENT_FILE_ID C_TeamProject_Plugins_Effekseer_Effekseer_Source_Effekseer_Public_EffekseerHandle_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
