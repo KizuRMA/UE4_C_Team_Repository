@@ -1,0 +1,599 @@
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Development\StrixSDK\Definitions.StrixSDK.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Dependencies/glm/glm/detail/glm.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm/glm.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/_fixes.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\fwd.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_int.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\setup.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../simd/platform.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_float.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_vec.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\precision.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\vec2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_vec2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_vec2.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\vec3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_vec3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_vec3.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\vec4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_vec4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_vec4.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_vec4_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\mat2x2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat2x2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat2x2.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_matrix.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat2x3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat2x3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat2x3.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat2x4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat2x4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat2x4.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat3x2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat3x2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat3x2.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat3x3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat3x3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat3x3.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat3x4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat3x4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat3x4.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat4x2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat4x2.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat4x2.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat4x3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat4x3.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat4x3.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../mat4x4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/type_mat4x4.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat4x4.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_mat4x4_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_matrix.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../geometric.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/func_geometric.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_geometric.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_exponential.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_vec1.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_vec1.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_exponential.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_vector_relational.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_vector_relational.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_vector_relational_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\_vectorize.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_exponential_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../simd/exponential.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_common.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\_fixes.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_common.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_common_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../simd/common.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_geometric_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../simd/geometric.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_matrix_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../simd/matrix.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\trigonometric.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/func_trigonometric.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_trigonometric.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_trigonometric_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\exponential.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\common.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\packing.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/func_packing.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_packing.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_half.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\type_half.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_packing_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\matrix.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\vector_relational.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\integer.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail/func_integer.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_integer.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\func_integer_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\detail\../simd/integer.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm/gtc/quaternion.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\gtc\../gtc/constants.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\gtc\constants.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\gtc\quaternion.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\gtc\quaternion_simd.inl
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm/gtx/dual_quaternion.hpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm\glm\gtx\dual_quaternion.inl
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Adapter/StrixNode.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNode.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixPropertyMap.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/ObjectAdapter.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ratio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vector
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/WrapperObject.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/Object.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_Object.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClassT.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_MetaClassT.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClass.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/SuperFastHash.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\algorithm
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/Logger.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogHandler.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogFormatter.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogRecord.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogLevel.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\list
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PropertyAccessor.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializerImpl.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializer.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/SerializerImpl.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Encoder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Format.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Decoder.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PredefinedClassId.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Util/StrixHeapDataHolder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixPropertyMap.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNode.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNode.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/UID.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/Node.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/Model.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/node/NodeInfo.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixNode.generated.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Adapter/StrixNodeRoom.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/NodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixNodeRoom.generated.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Adapter/StrixRoom.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/Room.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixRoom.generated.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Adapter/StrixRoomMember.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixRoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/RoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixRoomMember.generated.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Components/StrixAnimationSyncComponent.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixAnimationSyncComponent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixReplicatorComponent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNetworkFacade.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixErrors.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/error/ErrorCategory.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixErrors.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixCondition.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Condition.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixCondition.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNodeRoomInfo.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixNodeRoomInfo.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixOrder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Order.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/OrderType.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixOrder.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixRelayArg.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixRelayArg.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UETypeRegistry.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UEClassNetworkObjectSpawner.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectSpawner.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/Delegates.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\functional
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeAuthContextFactory.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeSelectionStrategy.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/StrixNetworkEvents.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixNetworkFacade.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UENotifiableSyncGroup.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ErrorException.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAllocator.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/TextBuffer.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/PropertyLocalizationDataGathering.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LevelGuids.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMemoryAnalyzer.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReferenceChainSearch.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Internationalization/TextPackageNamespaceUtil.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectAndNameAsStringProxyArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveShowReferences.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindReferencersArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindObjectReferencers.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveFindCulprit.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedObject.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceObjectRef.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectPropertyMapper.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReferenceMarker.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectCrc32.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/NotifyHook.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/RedirectCollector.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptStackTracker.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncProperty.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncGroup.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/PropertyMap.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/ScheduledSyncGroup.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\unordered_map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xhash
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xbit_ops.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoomContext.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomEvents.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/NotificationEventArgs.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectFlags.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixReplicatorComponent.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixAnimationSyncComponent.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UESyncProperties.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Util/StrixUtil.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Serialization/UEObjectsSerializers.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNetworkId.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixNetworkId.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/ComparableWrapperObject.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/rpc/RpcProcedureT.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/rpc/RpcProcedure.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/rpc/permission/RpcPermission.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/ObjectConverter.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/Number.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/NumberComparator.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncPropertyT.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/ComparisonUtil.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Util/ActorUtil.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Components/StrixMovementSynchronizer.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixMovementSynchronizer.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Movement/StrixMovementController.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObject.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixMovementSynchronizer.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Movement/StrixLocalMovementController.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/interpolation/MovementInterpolator.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/interpolation/Common.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/interpolation/Movement.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/interpolation/MovementPath.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/interpolation/MovementSnapshot.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Movement/StrixRemoteMovementController.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Movement/StrixMovementSyncGroup.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/ManualSyncGroup.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\UELogHandler.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CharacterMovementReplication.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavigationAvoidanceTypes.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RVOAvoidanceInterface.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PathFollowingAgentInterface.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MovementComponent.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavMovementComponent.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PawnMovementComponent.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NetworkPredictionInterface.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CharacterMovementComponent.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Serialization/UEObjectAdapter.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Util/GlmHelper.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/MatchRoomClient.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomClient.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/message/MessageChannelListener.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/message/event/MessageChannelCloseEvent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/message/event/MessageChannelConnectEvent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/message/event/MessageChannelMessageEvent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/message/event/MessageChannelErrorEvent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/CRUDClient.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/CoreMessages.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/CreateFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterFailureMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/FailureMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/CreateMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterRequestMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/RequestMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/CreateResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterResponseMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ResponseMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DefaultMessageDispatcher.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/MessageDispatcher.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DefaultParameterMessageDispatcher.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DeleteByFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DeleteByMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DeleteByResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DeleteFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DeleteMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DeleteResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/GetMessage_.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/GetResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/GetCountMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/GetCountResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SearchFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SearchMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SearchResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SetByFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SetByMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SetByResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SetFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SetMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/SetResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/ChildUID.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/ServerUID.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/UserUID.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iomanip
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocmon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xloctime
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/SharedUID.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/RequestClient.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/request/RequestDispatcher.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/ConcurrentPriorityQueue.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\queue
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_startup.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/request/RequestResult.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomData.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomMessages.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/OwnerlessRoomCreateMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomCreateMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomCreateResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomDeleteNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterNotificationMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/NotificationMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomDirectRelayMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DefaultRequestMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomDirectRelayNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DefaultNotificationMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomDirectRelayResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/DefaultResponseMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomGetMembersMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomGetMembersResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomJoinFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomJoinMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomJoinNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomJoinResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomLeaveFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomLeaveMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomLeaveNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomLeaveResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomRelayMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomRelayNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomRelayResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomSetMemberFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomSetMemberMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomSetMemberNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomSetMemberResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/message/RoomSetNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/MatchMessages.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableNodeInfo.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/message/MatchRoomKickFailedResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/message/MatchRoomJoinMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/message/MatchRoomKickMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/message/MatchRoomKickNotification.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/message/MatchRoomKickResponse.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/MatchRoomData.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Components/StrixReplicatorComponent.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UENetworkObject.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectManager.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Components/StrixTransformSyncComponent.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixTransformSyncComponent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixTransformSyncComponent.generated.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Movement/StrixLocalMovementController.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Movement/StrixRemoteMovementController.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Rpc/UERpcProcedure.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Rpc/UERpcProcedure.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Rpc/UERpcProcedureArg.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixRPCContext.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixRPCContext.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/rpc/RpcContext.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Serialization/UEObjectAdapter.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/StrixBlueprintFunctionLibrary.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixBlueprintFunctionLibrary.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixBlueprintFunctionLibrary.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\KismetSystemLibrary.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DialogueTypes.generated.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameplayStaticsTypes.generated.h
+F:\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameplayStatics.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/builder/ConditionBuilder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/builder/FieldClauseBuilder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/builder/OrConditionBuilder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/builder/AndConditionBuilder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/builder/ExpectingFieldClause.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/Filters.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/And.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Equals.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Field.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/ValueType.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/GreaterThan.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/GreaterThanEquals.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/IsNotNull.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/IsNull.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/LessThan.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/LessThanEquals.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Like.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/TextFilter.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/TextFilterType.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/NotEquals.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/NotLike.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Or.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Value.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/StrixNetworkFacade.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\UEHttpClient.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Http.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpResponse.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\PlatformHttp.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Windows/WindowsPlatformHttp.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/GenericPlatformHttp.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/http/HttpClient.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/StrixClient.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/connection/HandshakeHandlers.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/message/MessageChannel.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/channel/Channel.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/MasterServerConnection.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/ServerConnection.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoomServerConnection.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoutingNotificationListeners.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-replica\strix/client/replica/ReplicaNotificationListener.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomNotificationListener.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/MatchRoomNotificationListener.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/RandomNodeSelectionStrategy.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/rpc/RpcManager.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/auth/ApplicationIdCredentials.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/auth/Credentials.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/data/NodeRoomInfo.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/channel/Protocol.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/SerializationConfig.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/EncodingConverter.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/Serialization.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/SerializationManager.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/auth/UIDCredentials.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/time/SyncTimeClient.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/time/message/SyncTimeMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/time/message/SyncTimeResponse.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/StrixNotificationListener.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNotificationListener.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNotificationListenerObject.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixNotificationListenerObject.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Inc\StrixSDK\StrixNotificationListener.generated.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/StrixNotificationListenerObject.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/CustomizableMatchRoomClient.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/StrixSDK.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixSDK.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Sync/UEClassNetworkObjectSpawner.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Sync/UENetworkObject.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Sync/UENotifiableSyncGroup.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Sync/UESyncProperties.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Sync/UETypeRegistry.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/UEHttpClient.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/UELogHandler.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Util/ActorUtil.cpp
+F:/UE_test/matchingTest/Plugins/StrixSDK/Source/StrixSDK/Private/Util/PIEHelper.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Util/PIEHelper.h

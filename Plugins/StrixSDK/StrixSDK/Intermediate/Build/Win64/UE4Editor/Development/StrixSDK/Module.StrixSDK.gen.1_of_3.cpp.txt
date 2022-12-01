@@ -1,0 +1,233 @@
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Definitions.StrixSDK.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixAnimationSyncComponent.gen.cpp
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK/Public/Components/StrixAnimationSyncComponent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixReplicatorComponent.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNetworkFacade.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\StrixErrors.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/error/ErrorCategory.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixErrors.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixCondition.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Condition.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/Object.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_Object.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClassT.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_MetaClassT.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClass.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/SuperFastHash.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\algorithm
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/Logger.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogHandler.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogFormatter.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogRecord.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogLevel.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\list
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PropertyAccessor.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializerImpl.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializer.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/SerializerImpl.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Encoder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Format.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Decoder.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixCondition.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNode.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixPropertyMap.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/ObjectAdapter.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/WrapperObject.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PredefinedClassId.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Util/StrixHeapDataHolder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixPropertyMap.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNode.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNode.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/UID.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/Node.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/Model.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/node/NodeInfo.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixNode.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/NodeRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixNodeRoom.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNodeRoomInfo.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixNodeRoomInfo.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixOrder.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Order.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/OrderType.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixOrder.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixRelayArg.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixRelayArg.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoom.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterMessage.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/Room.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixRoom.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixRoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/RoomMember.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixRoomMember.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UETypeRegistry.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UEClassNetworkObjectSpawner.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectSpawner.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/Delegates.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\functional
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeAuthContextFactory.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeSelectionStrategy.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/StrixNetworkEvents.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixNetworkFacade.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UENotifiableSyncGroup.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Core.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ErrorException.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAllocator.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/TextBuffer.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/PropertyLocalizationDataGathering.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LevelGuids.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMemoryAnalyzer.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReferenceChainSearch.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Internationalization/TextPackageNamespaceUtil.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectAndNameAsStringProxyArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveShowReferences.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindReferencersArchive.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindObjectReferencers.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveFindCulprit.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedObject.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataReader.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataWriter.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceObjectRef.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectPropertyMapper.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReferenceMarker.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectCrc32.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/NotifyHook.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/RedirectCollector.h
+F:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptStackTracker.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncProperty.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncGroup.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/PropertyMap.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/ScheduledSyncGroup.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\unordered_map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xhash
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE\xbit_ops.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoomContext.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomEvents.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/NotificationEventArgs.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectFlags.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixReplicatorComponent.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixAnimationSyncComponent.generated.h
+F:/UE_test/matchingTest/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixBlueprintFunctionLibrary.gen.cpp
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK/Public/StrixBlueprintFunctionLibrary.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter/StrixNetworkId.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixNetworkId.generated.h
+F:\UE_test\matchingTest\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK\StrixBlueprintFunctionLibrary.generated.h
