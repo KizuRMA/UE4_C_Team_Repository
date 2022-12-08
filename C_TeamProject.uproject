@@ -54,6 +54,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
 		}
 	]
 }
